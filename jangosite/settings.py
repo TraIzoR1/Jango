@@ -25,7 +25,7 @@ SECRET_KEY = ')4nu7*b34%%t!7+lywp#heq02n3v4gu8_a$)2v&r=bv10gthg8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['traizor.pythonanywhere.com']
 
 
 # Application definition
